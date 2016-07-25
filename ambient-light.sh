@@ -12,7 +12,7 @@ SENSOR_MAX=300
 SENSOR=/sys/bus/iio/devices/iio\:device0/in_illuminance_raw
 
 # Minimum backlight value
-BACKLIGHT_MIN=200
+BACKLIGHT_MIN=450
 
 # Maximum backlight value
 BACKLIGHT_MAX=4648
